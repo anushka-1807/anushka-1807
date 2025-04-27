@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-1807&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-1807" /> </p>
 
-- 🔭 I’m currently working on [ai-assistant-teacher](https://github.com/anushka-1807/ai-teacher-assistant01)
+- 🔭 I have worked on [ai-assistant-teacher](https://github.com/anushka-1807/ai-teacher-assistant01)
+- 🔭 I am currently working on [personal-finance-visualizer](https://github.com/anushka-1807/personal-finance-visualizer)
 
 - 🌱 I’m currently learning **Java, React and other frameworks.**
 
