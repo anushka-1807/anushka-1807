@@ -6,9 +6,9 @@
 - 🔭 I have worked on [ai-assistant-teacher](https://github.com/anushka-1807/ai-teacher-assistant01)
 - 🔭 I am currently working on [personal-finance-visualizer](https://github.com/anushka-1807/personal-finance-visualizer)
 
-- 🌱 I’m currently learning **Java, React and other frameworks.**
+- 🌱 I’m currently learning **Java, Springboot and other frameworks.**
 
-- 💬 Ask me about **Python, C, Data Structures.**
+- 💬 Ask me about **Core Java,Python, C, Data Structures.**
 
 - 📫 How to reach me **singhanushka0718@gmail.com**
 
