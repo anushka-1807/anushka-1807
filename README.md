@@ -185,18 +185,18 @@ flowchart LR
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=7B2FF7&icon_color=00D9F5&border_radius=16&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00F5A0&icon_color=00D9F5&text_color=C9D1D9&bg_color=0D1117&border_radius=16&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushka-1807&show_icons=true&theme=transparent&hide_border=true&title_color=00F5A0&icon_color=00D9F5&text_color=C9D1D9&bg_color=0D1117&border_radius=16&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut-vertical&theme=default&hide_border=true&title_color=7B2FF7&border_radius=16">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00F5A0&text_color=C9D1D9&bg_color=0D1117&border_radius=16" height="180" alt="Top languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-1807&layout=donut-vertical&theme=default&hide_border=true&title_color=7B2FF7&border_radius=16">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-1807&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00F5A0&text_color=C9D1D9&bg_color=0D1117&border_radius=16" height="180" alt="Top languages" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&ring=7B2FF7&fire=F107A3&currStreakLabel=7B2FF7&border_radius=16">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00F5A0&fire=F107A3&currStreakNum=00D9F5&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=8B949E&border_radius=16" width="560" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=anushka-1807&theme=default&hide_border=true&ring=7B2FF7&fire=F107A3&currStreakLabel=7B2FF7&border_radius=16">
+  <img src="https://streak-stats.demolab.com?user=anushka-1807&theme=dark&hide_border=true&background=0D1117&ring=00F5A0&fire=F107A3&currStreakNum=00D9F5&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=8B949E&border_radius=16" width="560" alt="GitHub streak" />
 </picture>
 
 <br/><br/>
@@ -207,14 +207,14 @@ flowchart LR
 
 <!-- Contribution snake: needs the GitHub Action in snake.yml (see notes) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushka-1807/anushka-1807/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushka-1807/anushka-1807/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/anushka-1807/anushka-1807/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=anushka-1807&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 
 </div>
 
