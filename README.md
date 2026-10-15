@@ -16,8 +16,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8E54E9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=6C63FF&logo=github)
+
 
 <a href="mailto:singhanushka0718@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-8E54E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="www.linkedin.com/in/anushkasingh1807"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
