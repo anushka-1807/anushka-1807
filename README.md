@@ -67,7 +67,7 @@ A Java web application that brings tender publishing and vendor bidding into one
 <!-- Live card: displays solved-problem counts and topic breakdown from LeetCode. -->
 <img src="https://leetcard.jacoblin.cool/anushka-1807?theme=dark&font=Inter&ext=heatmap" alt="Anushka's live LeetCode statistics and activity heatmap" width="95%" />
 
-[**Open my LeetCode profile →**](https://leetcode.com/u/anushka-1807/)
+[**Open my LeetCode profile →**](https://leetcode.com/u/anushkasingh02/)
 
 </div>
 
